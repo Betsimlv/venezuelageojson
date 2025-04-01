@@ -4,76 +4,38 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point",
+                "type": "Polygon",
                 "coordinates": [
-                    10.470589,
-                    -66.542008
+                    [
+                        [
+                            -66.542008,
+                            10.470589
+                        ],
+                        [
+                            -66.551706,
+                            10.472625
+                        ],
+                        [
+                            -67.999047,
+                            10.173629
+                        ],
+                        [
+                            -67.400422,
+                            7.364332
+                        ],
+                        [
+                            -63.3379,
+                            6.83788
+                        ],
+                        [
+                            -66.542008,
+                            10.470589
+                        ]
+                    ]
                 ]
             },
             "properties": {
-                "nombre": "sede1",
-                "lat": 10.470588856993729,
-                "lon": -66.5420078969015
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.472625,
-                    -66.551706
-                ]
-            },
-            "properties": {
-                "nombre": "sede2",
-                "lat": 10.472624500122876,
-                "lon": -66.5517056992392
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.173629,
-                    -67.999047
-                ]
-            },
-            "properties": {
-                "nombre": "sede3",
-                "lat": 10.17362925009489,
-                "lon": -67.9990467978821
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.364332,
-                    -67.400422
-                ]
-            },
-            "properties": {
-                "nombre": "sede4",
-                "lat": 7.364331507609137,
-                "lon": -67.4004223023584
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.83788,
-                    -63.3379
-                ]
-            },
-            "properties": {
-                "nombre": "sede5",
-                "lat": 6.837880114420869,
-                "lon": -63.33789950161088
+                "nombre": "\u00c1rea de sedes"
             }
         }
     ]
