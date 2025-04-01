@@ -3,7 +3,9 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "guatire": ""
+      },
       "geometry": {
         "coordinates": [
           [
@@ -52,7 +54,8 @@
           ]
         ],
         "type": "LineString"
-      }
+      },
+      "id": 0
     }
   ]
 }
