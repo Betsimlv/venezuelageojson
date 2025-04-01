@@ -6,12 +6,12 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -66.542008,
-                    10.470589
+                    -66.9036,
+                    10.4806
                 ]
             },
             "properties": {
-                "nombre": "sede1"
+                "nombre": "Caracas"
             }
         },
         {
@@ -19,12 +19,12 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -66.551706,
-                    10.472625
+                    -71.6406,
+                    10.6544
                 ]
             },
             "properties": {
-                "nombre": "sede2"
+                "nombre": "Maracaibo"
             }
         },
         {
@@ -32,12 +32,12 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -67.999047,
-                    10.173629
+                    -71.1449,
+                    8.5912
                 ]
             },
             "properties": {
-                "nombre": "sede3"
+                "nombre": "Mérida"
             }
         },
         {
@@ -45,12 +45,12 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -67.400422,
-                    7.364332
+                    -62.7116,
+                    8.2783
                 ]
             },
             "properties": {
-                "nombre": "sede4"
+                "nombre": "Puerto Ordaz"
             }
         },
         {
@@ -58,12 +58,12 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -63.3379,
-                    6.83788
+                    -63.899,
+                    10.998
                 ]
             },
             "properties": {
-                "nombre": "sede5"
+                "nombre": "Isla de Margarita"
             }
         }
     ]
